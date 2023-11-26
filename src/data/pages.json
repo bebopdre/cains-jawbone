@@ -1,0 +1,278 @@
+[
+    {
+        "page_num": 89,
+        "content": [
+            {
+                "line_num": 1,
+                "includes_def": true,
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1,
+                        "includes_def": false,
+                        "content": "The ancient had then sat down among the heather to a great dish of brown and swimming"
+                    },
+                    {
+                        "id": 2,
+                        "includes_def": true,
+                        "content": " collops. "
+                    }
+                ]
+            },
+            {
+                "line_num": 2,
+                "includes_def": true,
+                "includes_quote": true,
+                "content": [
+                    {
+                        "id": 1, 
+                        "includes_def": false,
+                        "includes_quote": false,
+                        "content": "Personally, as far as my stomach went, "
+                    },
+                    {
+                        "id": 2, 
+                        "reference_id": "89-1",
+                        "includes_def": false,
+                        "includes_quote": true,
+                        "exact_match": false,
+                        "content": "I could not love the deer so much, loved I not on a moor, "
+                    },
+                    {
+                        "id": 3, 
+                        "includes_def": false,
+                        "includes_quote": false,
+                        "content": "with concomitant "
+                    },
+                    {
+                        "id": 4, 
+                        "includes_def": true,
+                        "includes_quote": false,
+                        "content": "Spey Royal"
+                    },
+                    {
+                        "id": 5, 
+                        "includes_def": false,
+                        "includes_quote": false, 
+                        "content": " to drown the taste. "
+                    }
+                ]
+            },
+            {
+                "line_num": 3, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "content": "Nor was that likely to happen in this case."
+                    }
+                ]
+            },
+            {
+                "line_num": 4,
+                "includes_def": false, 
+                "includes_quote": true,
+                "content": [
+                    {
+                        "id": 1, 
+                        "reference_id": "89-2",
+                        "includes_quote": true,
+                        "content": "The absence of old friends one can endure with equanimity. But even a momentary separation from anyone whom one has just been introduced is almost unbearable."
+                    }
+                ]
+            },
+            {
+                "line_num": 5, 
+                "includes_def": true, 
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "includes_def": true,
+                        "content": "Circumstances, I thought, as I looked over at the man, alter cases."
+                    }
+                ]
+            },
+            {
+                "line_num": 6, 
+                "includes_def": false, 
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "content": "I would give the rogue a chance."
+                    }
+                ]
+            },
+            {
+                "line_num": 7, 
+                "includes_def": false, 
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "content": "'Have you a good memory?' I asked."
+                    }
+                ]
+            },
+            {
+                "line_num": 8, 
+                "includes_def": false, 
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "content": "'Intermittent but long,' he answered."
+                    }
+                ]
+            },
+            {
+                "line_num": 9, 
+                "includes_def": false, 
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "content": "That signed his death warrant."
+                    }
+                ]
+            },
+            {
+                "line_num": 10, 
+                "includes_def": false, 
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "content": "Well, signatures were his business."
+                    }
+                ]
+            },
+            {
+                "line_num": 11, 
+                "includes_def": false, 
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "content": "The gold was being cleared out of the light; the remaining silver was, how shall I say?, unsatisfactory."
+                    }
+                ]
+            },
+            {
+                "line_num": 12, 
+                "includes_def": false, 
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "content": "I also had flaunted the panache—It lay at that moment beneath my lips—to the public without ever having been satisfied with it."
+                    }
+                ]
+            }
+        ],
+        "authors_referenced": [
+            {
+                "id": "89-1",
+                "title": "To Lucasta, Going to the War",
+                "author": "Richard Lovelace",
+                "type": "poem",
+                "passage": [
+                    {
+                        "line_num": 1,
+                        "content": "Tell me not (Sweet) I am unkind,",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 2,
+                        "content": "That from the nunnery",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 3,
+                        "content": "Of thy chaste breast and quiet mind",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 4,
+                        "content": "To war and arms I fly.",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 5,
+                        "content": "True, a new mistress now I chase,",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 6,
+                        "content": "The first foe in the field;",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 7,
+                        "content": "And with a stronger faith embrace",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 8,
+                        "content": "A sword, a horse, a shield.",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 9,
+                        "content": "Yet this inconstancy is such",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 10,
+                        "content": "As you too shall adore;",
+                        "relevant": false
+                    },
+                    {
+                        "line_num": 11,
+                        "content": "I could not love thee (Dear) so much,",
+                        "relevant": true
+                    },
+                    {
+                        "line_num": 12,
+                        "content": "Lov’d I not Honour more.",
+                        "relevant": true
+                    }
+                ],
+                "passage_link": "https://www.poetryfoundation.org/poems/44658/to-lucasta-going-to-the-wars"
+            },
+            {
+                "id": "89-2",
+                "title": "The Importance of Being Earnest",
+                "author": "Oscar Wilde",
+                "type": "play",
+                "passage": [
+                    {
+                        "line_num": 1,
+                        "content": "The absence of old friends one can endure with equanimity. But even a momentary separation from anyone to whom one has just been introduced is almost unbearable.",
+                        "relevant": true
+                    }
+                ]
+            }
+        ],
+        "passage_decoded": [],
+        "definitions": [
+            {
+                "definition_id": "D89-1",
+                "term": "collop",
+                "definition": "something here"
+            },
+            {
+                "definition_id": "D89-2",
+                "term": "Spey Royal",
+                "definition": "something here"
+            },
+            {
+                "definition_id": "D89-3",
+                "term": "circumstances alter cases",
+                "definition": "something here"
+            }
+        ]
+    }
+]
