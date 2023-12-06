@@ -1,0 +1,20 @@
+@use '../../styles/partials/variables' as *;
+
+.home {
+    background-color: $background-beige;
+
+    width: 100%;
+    height: 100vh;
+
+    &-main {
+        border: 2px solid orange;
+
+        &__writing {
+            border: 2px solid red;
+
+            &-heading {
+                font-size: 3rem;
+            }
+        }
+    }
+}
