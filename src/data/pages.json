@@ -1,5 +1,390 @@
 [
     {
+        "page_num": 26,
+        "character_references": ["Henry"],
+        "content": [
+            {
+                "line_num": 1,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "The girl had left Henry by this time, thank God."
+            },
+            {
+                "line_num": 2,
+                "includes_def": true,
+                "includes_quote": false,
+                "content": [
+                    {
+                        "id": 1, 
+                        "includes_def": false,
+                        "content": "She was an obvious "
+                    },
+                    {
+                        "id": 2,
+                        "definition_id": "D26-1",
+                        "includes_def": true,
+                        "content": "whey-face"
+                    },
+                    {
+                        "id":3,
+                        "includes_def": false,
+                        "content": "."
+                    }
+                ]
+            },
+            {
+                "line_num": 3,
+                "content": "She didn't seem capable for a moment of understanding those first two killings of his."
+            },
+            {
+                "line_num": 4,
+                "content": "He was being a dear."
+            },
+            {
+                "line_num": 5,
+                "content": "He had sent the rector's aunt away, as he explained to the girl, like a bee with a sore bonnet."
+            },
+            {
+                "line_num": 6,
+                "content": "A foreign touch."
+            },
+            {
+                "line_num": 7,
+                "content": "Killing time, yes."
+            },
+            {
+                "line_num": 8,
+                "content": "I was doing that."
+            },
+            {
+                "line_num": 9,
+                "content": "It was funny how idly the mind worked; or seeming idly."
+            },
+            {
+                "line_num": 10,
+                "content": "Perhaps there was something in heredity after all."
+            },
+            {
+                "line_num": 11,
+                "content": "I pondered to its direction."
+            },
+            {
+                "line_num": 12,
+                "content": "An accent was a terrible thing, I thought."
+            },
+            {
+                "line_num": 13,
+                "content": "Killing time wouldn't be so good."
+            },
+            {
+                "line_num": 14,
+                "content": "I realised that I was impressionable, that I liked a good murder."
+            },
+            {
+                "line_num": 15,
+                "content": "But Hodge, once settled, wasn't in the least like a singer."
+            },
+            {
+                "line_num": 16,
+                "content": "He had a wen, and scratched his left whisker."
+            },
+            {
+                "line_num": 17,
+                "content": "I supposed it would be different to suddenly develop a wen for someone."
+            },
+            {
+                "line_num": 18,
+                "content": "Different and messier."
+            },
+            {
+                "line_num": 19,
+                "content": "He asked about Ben Wade, hitherto merely mutely unemployed, and of course I said the right thing."
+            }
+        ]
+    },
+    {
+        "page_num": 27,
+        "content": [
+            {
+                "line_num": 1,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I had seen, day after day, every sunlit or night obscured detail of the funny old house I had visited so many years ago."
+            },
+            {
+                "line_num": 2,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Through it, handsome, cadaverous and so quiet, had walked Death himself, tapping unnoticed at the very walls of the mansions of life; trying here, failing there, lightly fingering for the sign of a breach, a tiny opening."
+            },
+            {
+                "line_num": 3,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Apparently the person who slept in the lock-up at that county town on the Severn, or perhaps woke, would hear this time."
+            },
+            {
+                "line_num": 4,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I had found that I could face my usual mixture of Peaberry Mysore and Blue Mountain."
+            },
+            {
+                "line_num": 5,
+                "reference_id": "27-1",
+                "includes_def": false,
+                "includes_quote": true,
+                "content": "I had made certain havoc of two on toast, their silver skins laced with their golden blood."
+            },
+            {
+                "line_num": 6, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "To think of the tiny Clem mixed up, nay, a prime mover, in such affairs."
+            },
+            {
+                "line_num": 7, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Useful, courteous little chip of a bat."
+            },
+            {
+                "line_num": 8, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "He had hushed my brat for me when he was only six, one morning on which I had wanted to go out for a walk."
+            }
+        ],
+        "authors_referenced": [
+            {
+                "id": "27-1",
+                "title": "Macbeth: Act 2",
+                "author": "William Shakespeare",
+                "type": "play",
+                "passage": [],
+                "passage_link": "https://1127vivian.wordpress.com/2010/02/19/macbeth-notes-act-2-analysis-2/"
+            }
+        ]
+    },
+    {
+        "page_num": 33,
+        "content": [
+            {
+                "line_num": 1, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "He was picking round amoung all she had left behind and found a box with his name on it."
+            },
+            {
+                "line_num": 2, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Also it said, for he read it, I always pay my debts."
+            },
+            {
+                "line_num": 3, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Unwrapped, it seemed to be a hundred box of Gourdoulis."
+            },
+            {
+                "line_num": 4, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I had never seen him so moved."
+            },
+            {
+                "line_num": 5, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "He started reading a letter from a woman, dead the same day."
+            },
+            {
+                "line_num": 6, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I had yours but yesterday, it said, though dated the third of February, in which you suppose me to be dead and buried."
+            },
+            {
+                "line_num": 7, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I have already let you know I am still alive, he went on, but to say truth, I look upon my present circumstances to be exactly the same with those departed spirits."
+            },
+            {
+                "line_num": 8, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I don't think he ever said any more."
+            },
+            {
+                "line_num": 9, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Happily I was behind the armchair."
+            },
+            {
+                "line_num": 10, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "He just opened the box."
+            },
+            {
+                "line_num": 11, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I had never seen him so moved."
+            },
+            {
+                "line_num": 12, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "There were little bits of stuff like black pineapple on the carpet."
+            },
+            {
+                "line_num": 13, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I knew he could never be his old collected self again, and that my gray hairs would go down in sorrow to the grave."
+            }
+        ]
+    },
+    {
+        "page_num": 35,
+        "content": [
+            {
+                "line_num": 1,
+                "content": "For the time being, Henry was drawing towards a close."
+            },
+            {
+                "line_num": 2,
+                "content": "I was not sorry."
+            },
+            {
+                "line_num": 3,
+                "content": "The police were after him in no uncertain manner, and it seemed impossible for him to ultimately escape them."
+            },
+            {
+                "line_num": 4,
+                "content": "While the flying squad had surrounded the house, the locals were thronging the underground passage, and Wellington Crisp, with his assistant and his bulldog, was pouring through the concealed panel in the bathroom."
+            },
+            {
+                "line_num": 5,
+                "content": "Instead of adding one more to his crimson list, he preferred to trust himself to a limping blimp: almost, it seemed, a certain suicide."
+            },
+            {
+                "line_num": 6,
+                "content": "But he might return."
+            },
+            {
+                "line_num": 7,
+                "content": "One never knew."
+            },
+            {
+                "line_num": 8,
+                "content": "At least my end was reached, and in some comfort."
+            },
+            {
+                "line_num": 10,
+                "content": "Murders were funny things."
+            },
+            {
+                "line_num": 11,
+                "content": "If he who so tragically killed his King, ever reached here at all, which is historically more than doubtful (alas, poor Richard! alas, poor Thomas!) it was certainly not in such ease or such good time as I."
+            },
+            {
+                "line_num": 12,
+                "content": "I collected myself and mine, and went out to sniff the new air."
+            }
+        ]
+    },
+    {
+        "page_num": 38,
+        "content": [
+            {
+                "line_num": 1, 
+                "content": "I was feeling better already, and was glad that a memory, true though dim, had led me to the place."
+            },
+            {
+                "line_num": 2, 
+                "content": "Video meliora proboque; but I could not, for all my covert glances, see the modelling of the fossettes of the elbows of the woman sitting so near me."
+            },
+            {
+                "line_num": 3, 
+                "content": "Were they, I wondered, like Sonia Gordon's, triangular dimples with shadow in them?"
+            },
+            {
+                "line_num": 4, 
+                "content": "Poor Sonia Gordon."
+            },
+            {
+                "line_num": 5, 
+                "content": "I pondered on that tragic fortnight at Southend: the pier with its electrical railway, and my cousin's rash act, and Sonia's lapse."
+            },
+            {
+                "line_num": 6, 
+                "content": "Her temperament was against her."
+            },
+            {
+                "line_num": 7, 
+                "content": "Still you couldn't have an omelette without breaking eggs."
+            },
+            {
+                "line_num": 8, 
+                "content": "And mine was excellent."
+            },
+            {
+                "line_num": 9,
+                "content": "'You would get off a whole skin, would you?' I cried softly, as I stabbed once."
+            },
+            {
+                "line_num": 10,
+                "content": "And even as I did so, I thought of skinny old Marat in his slipper bath, the nightcap about his forehead, the dim light of the candle, the shadow at the door, the stealthy tread of Charlotte Brontë with the undulled blade."
+            },
+            {
+                "line_num": 11,
+                "content": "There was something wrong."
+            }
+        ]
+    },
+    {
+        "page_num": 53,
+        "content": [
+            {
+                "line_num": 1, 
+                "content": "So far the mind had been ambling, if I may dare the expression; moving forward ungainly, as if by one hemisphere at a time."
+            },
+            {
+                "line_num": 2, 
+                "content": "But now I keenly wondered how we should agree, myself and this well-fed swine that had just been introduced to me."
+            },
+            {
+                "line_num": 3, 
+                "content": "He was obviously in drink, and none the worse for that: the better indeed for my purpose."
+            },
+            {
+                "line_num": 4, 
+                "content": "The old fellow's face seemed vaguely familiar, though I am not good at faces."
+            },
+            {
+                "line_num": 5, 
+                "content": "Suddenly I remembered that white beard which jutted from his chin like an undercurving wave."
+            },
+            {
+                "line_num": 6, 
+                "content": "It should have been recognisable a mile off, from weekly reminders in the more ecstatic newspapers, as that of Sir Paul Trinder, whose furor loquendi had cause him for twenty years to adhere loudly to every ebbing cause in town."
+            },
+            {
+                "line_num": 7, 
+                "content": "He was also, if I mistook not, some sort of chartered lecturer at obscure seats, one might almost call them stools, of learning."
+            },
+            {
+                "line_num": 8, 
+                "content": "Such a man, it might be argued, was no one's enemy but his own; but, oh, what a bitter enmity that could be."
+            }
+        ]
+    },
+    {
         "page_num": 56,
         "content": [
             {
@@ -77,6 +462,365 @@
             }
         ],
         "passage_decoded": []
+    },
+    {
+        "page_num": 58,
+        "content": [
+            {
+                "line_num": 1,
+                "content": "Considering it was my name month, I wasn't having too much luck."
+            },
+            {
+                "line_num": 2, 
+                "content": "Henry, though a bit on the spectacular side--to fly the viscera of his third, of the old family lawyer, at his small flagstaff, a little argued the exhibitionist--was sane enough."
+            },
+            {
+                "line_num": 3,
+                "content": "And this stranger, to judge by the over-vague conversation he began to force on me--different in this from the agriculturist, who had been utterly silent save for the burning question, and the brats who had only uttered mutually--was distinctly nuts."
+            },
+            {
+                "line_num": 4,
+                "content": "Nuts in May, how Freudian."
+            },
+            {
+                "line_num": 5,
+                "content": "Be not a Freud; thy help is near."
+            },
+            {
+                "line_num": 6,
+                "content": "But was it?"
+            },
+            {
+                "line_num": 7,
+                "content": "Henry was in desperate case, and this other was short-sighted enough not to realise that I should care."
+            },
+            {
+                "line_num": 8, 
+                "content": "The former was stooping over the cooling remains of his fourth--the rash intruding charlady--when there came a horribly official knock at the little blue door."
+            },
+            {
+                "line_num": 9,
+                "content": "(Was it Inspector Barraclough, or only some stolid-witted local?)"
+            },
+            {
+                "line_num": 10,
+                "content": "But little the latter cared."
+            },
+            {
+                "line_num": 11, 
+                "content": "He went on talking about Browning."
+            }
+        ]
+    },
+    {
+        "page_num": 63,
+        "content": [
+            {
+                "line_num": 1,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I cannot help, even with this supreme distraction, thinking of my Babbie's--dare I say my Babbie's--hair as I last saw it, tiger-colored, and all like the little springs of a fairy's sofa."
+            },
+            {
+                "line_num": "2-5",
+                "reference_id": "63-1",
+                "includes_def": false,
+                "includes_quote": true,
+                "content": "O toison, moutonnant jusque sur l'encolure! O boucles! O parfum chargé de nonchaloir! Extase!"
+            },
+            {
+                "line_num": 6,
+                "includes_def": false,
+                "includes_quote": false, 
+                "content": "If you take my meaning."
+            },
+            {
+                "line_num": 7,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "She, at least, shows herself delightfully interested in Henry."
+            },
+            {
+                "line_num": 8,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I have always hated that these writers should be anonymous."
+            },
+            {
+                "line_num": 9,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "What a tribe of them there has been, to be sure!"
+            },
+            {
+                "line_num": 10,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "But I have called them all by their names."
+            },
+            {
+                "line_num": 11,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Is it a foolish ecstasy to thrill when I see her long warm fingers taking off Henry's cap and putting it on again, and trying him out on the table?"
+            },
+            {
+                "line_num": 12,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "My dear guest accepts a Rainbow."
+            },
+            {
+                "line_num": 13,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I clamour for it, and it comes."
+            },
+            {
+                "line_num": 14,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "She explains, and her throat dimples, that she will take it because Lent is over."
+            },
+            {
+                "line_num": 15,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "She never, she adds, will have a second Sundae in Lent."
+            },
+            {
+                "line_num": 16,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I must be besotted, for I think this is amusing."
+            }
+        ],
+        "authors_referenced": [
+            {
+                "id": "63-1",
+                "title": "La Chevelure",
+                "author": "Charles Baudelaire",
+                "type": "poem",
+                "passage": [],
+                "passage_link": "https://fleursdumal.org/poem/203"
+            }
+        ]
+    },
+    {
+        "page_num": 71,
+        "content": [
+            {
+                "line_num": 1,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "But next day that religious fellow's head drapery, if I might thus unscientifically express myself, showed signs, it seemed to me, after that initial success, of failing."
+            },
+            {
+                "line_num": 2,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I would give it till midnight."
+            },
+            {
+                "line_num": 3,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Do not misunderstand me."
+            },
+            {
+                "line_num": 4, 
+                "reference_id": "71-1",
+                "includes_def": false,
+                "includes_quote": true,
+                "content": "Why should I not play the Spartan mother with emotion, be the Lucius Junius Brutus of my kind?"
+            },
+            {
+                "line_num": 5, 
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I thought of May."
+            },
+            {
+                "line_num": 6,
+                "reference_id": "71-2",
+                "includes_def": false,
+                "includes_quote": true,
+                "content": "Over them came old odour of red May."
+            },
+            {
+                "line_num": 7,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Lovely, indeed, but not appropriate."
+            },
+            {
+                "line_num": 8,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "I felt that I was letting May down."
+            },
+            {
+                "line_num": 9,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "As for the other, I had, of course, no intention of letting up."
+            },
+            {
+                "line_num": 10,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "Henry, before our tea of anchovy and toast and various hot dishes (I was never a stinter) riotously displayed himself all over me."
+            },
+            {
+                "line_num": 11,
+                "includes_def": false,
+                "includes_quote": false,
+                "content": "He hit me once full in the eye, and I remembered, I could not help remembering, Elsie's difficulty when the young coastguard had tried to prove to her his direct descent from Herebald the Drake."
+            },
+            {
+                "line_num": 12,
+                "reference_id": "71-3",
+                "includes_def": false,
+                "includes_quote": true, 
+                "content": "'I will,' she quoted, 'express my duty in his eye.'"
+            }
+        ],
+        "authors_referenced": [
+            {
+                "id": "71-1",
+                "title": "The Princess",
+                "author": "Alfred Tennyson",
+                "type": "poem",
+                "passage": [],
+                "passage_link": "https://www.gsarchive.net/trutt/GilbertBooks/PrincessByHaughwout.pdf"
+            },
+            {
+                "id": "71-2",
+                "title": "Lyrics and Dramas",
+                "author": "Stephen Phillips",
+                "type": "poem",
+                "passage": [],
+                "passage_link": "https://archive.org/details/lyricsanddramas00philuoft/page/30/mode/2up"
+            },
+            {
+                "id": "71-3",
+                "title": "Hamlet: Act 4, Scene 1",
+                "author": "William Shakespeare",
+                "type": "play",
+                "passage": [],
+                "passage_link": "https://myshakespeare.com/hamlet/act-4-scene-4#:~:text=Hamlet%204.4&text=If%20that%20his%20majesty%20would,And%20let%20him%20know%20so."
+            }
+        ]
+    },
+    {
+        "page_num": 77,
+        "content": [
+            {
+                "line_num": 1, 
+                "content": "Compact, they call it; but when I used it, I was feeling anything but so."
+            },
+            {
+                "line_num": 2,
+                "content": "Don't think me squeamish; it was my first."
+            },
+            {
+                "line_num": 3,
+                "content": "That last little contact with the bony ankles, so warm and so soon, if Nature's great force were to do its work, to be so cold, had touched me, I confess it."
+            },
+            {
+                "line_num": 4,
+                "content": "Though I was alone again, it took me a few minutes to visualise Henry's predicament with the detached calm which it deserved."
+            },
+            {
+                "line_num": 5,
+                "content": "That old aunt of his third wife had turned up again."
+            },
+            {
+                "line_num": 6, 
+                "content": "Strangely enough a jellyfish had plugged the solution of her motor boat's continuity."
+            },
+            {
+                "line_num": 7, 
+                "content": "And there she way back again, alert, suspicious, very much alive."
+            },
+            {
+                "line_num": 8, 
+                "content": "I couldn't help being sorry for Henry."
+            },
+            {
+                "line_num": 9,
+                "content": "And I couldn't help being sorry for Perceval."
+            },
+            {
+                "line_num": 10, 
+                "content": "Murders were funny things."
+            },
+            {
+                "line_num": 11, 
+                "content": "That day's killing of Perceval, and in so public a place, seemed to be unwarrantable."
+            },
+            {
+                "line_num": 12,
+                "content": "But I had never been strong on politics."
+            },
+            {
+                "line_num": 13,
+                "content": "For the other, my own, though it was understandable, there was perhaps no utter warrant."
+            }
+        ]
+    },
+    {
+        "page_num": 79,
+        "content": [
+            {
+                "line_num": 1, 
+                "content": "It was that day my friend Sandy told me he was sure he wouldn't sleep all night."
+            },
+            {
+                "line_num": 2,
+                "content": "There was, of course, a difference between us."
+            },
+            {
+                "line_num": 3,
+                "content": "I couldn't get all worked up like that."
+            },
+            {
+                "line_num": 4,
+                "content": "You see, next day he would be allowed to fetch back Lagopus Scoticus, whom I know well, and he hadn't been allowed to do that for such a long time."
+            },
+            {
+                "line_num": 5,
+                "content": "I was fond of Sandy and rejoiced with him."
+            },
+            {
+                "line_num": 6, 
+                "content": "But I felt, I couldn't help feeling, that there was something wrong, something disjointed about my very front."
+            },
+            {
+                "line_num": 7, 
+                "content": "I made love to Flora again in the back parts; the result was satisfactory enough."
+            },
+            {
+                "line_num": 8, 
+                "content": "I was feeling quite at my best, but I took Bob Martin in completely."
+            },
+            {
+                "line_num": 9,
+                "content": "After all he liked me to, and he was always right."
+            },
+            {
+                "line_num": 10, 
+                "content": "But I had come to the conclusion that I loathed her; she kept on colouring up."
+            },
+            {
+                "line_num": 11, 
+                "content": "I understood why he had once said to me about something being as flush as May."
+            },
+            {
+                "line_num": 12,
+                "content": "Also, she wore her hair in a cluster of sly curls, a thing which in our family emphatically was not done."
+            }
+        ]
     },
     {
         "page_num": 89,
@@ -351,6 +1095,136 @@
                 "definition_id": "D89-3",
                 "term": "circumstances alter cases",
                 "definition": "something here"
+            }
+        ]
+    },
+    {
+        "page_num": 94,
+        "content": [
+            {
+                "line_num": 1,
+                "content": "Naturally I looked up."
+            },
+            {
+                "line_num": 2,
+                "content": "And I tell you I found it awe-inspiring enough to actually see my own name throught the window, printed there in great letters for the gaze of all and sundry."
+            },
+            {
+                "line_num": 3,
+                "content": "With a blush I concentrated again on Henry, and asked myself if his recent activities did or did not constitute the darbs."
+            },
+            {
+                "line_num": 4,
+                "content": "With a final flirt at the fringe, the other tapped and scattered the saintly ashes."
+            },
+            {
+                "line_num": 5,
+                "content": "Agriculture was to take back her own, it seemed, and I rejoiced to have my last sight of the bent broad back."
+            },
+            {
+                "line_num": 6,
+                "content": "I couldn't think why I became suddenly aware of Yeats; and then it came to me: we find heartedness amoung men that ride upon horses."
+            },
+            {
+                "line_num": 7,
+                "content": "It was here, of course, they commemorated Colonel Anthony every year."
+            },
+            {
+                "line_num": 8,
+                "content": "Good luck to him."
+            },
+            {
+                "line_num": 9,
+                "content": "Really I didn't like children."
+            },
+            {
+                "line_num": 10,
+                "content": "A little he and she bounced in, half settling on my side like sparrows, and devirginating a bag of gum prunes as they bounced."
+            },
+            {
+                "line_num": 11,
+                "content": "How could I concentrate?"
+            },
+            {
+                "line_num": 12,
+                "content": "And Henry was waiting for me."
+            }
+        ]
+    },
+    {
+        "page_num": 100,
+        "content": [
+            {
+                "line_num": 1, 
+                "content": "I dimly guess why the old dead so wanted this."
+            },
+            {
+                "line_num": 2,
+                "content": "I had worked for him, Henry had worked for him."
+            },
+            {
+                "line_num": 3,
+                "content": "If I could get up, as, believe me, I cannot, I would have a thing to say to her."
+            },
+            {
+                "line_num": 4,
+                "content": "She lolls over at me gloating, her mouth blood-tinted on the puma freckle of her beauty."
+            },
+            {
+                "line_num": 5,
+                "content": "Why should I think of Henry at this particular juncture?"
+            },
+            {
+                "line_num": 6,
+                "content": "I have it."
+            },
+            {
+                "line_num": 7,
+                "content": "Scotland Yard, of course."
+            },
+            {
+                "line_num": 8,
+                "content": "And little 'twill matter to one."
+            },
+            {
+                "line_num": 9,
+                "content": "A sorry thing to be last noticed: the buttonhole has escaped from the buttonholer."
+            },
+            {
+                "line_num": 10,
+                "content": "He, the reckless old cock, slips down past Woolworth's, and she continues full-sail toward the Kursaal, as flush--oh, you wicked woman--as May."
+            },
+            {
+                "line_num": 11,
+                "content": "The girl is smiling at me."
+            },
+            {
+                "line_num": 12,
+                "content": "That's not so good."
+            },
+            {
+                "line_num": 13,
+                "content": "Here I shake off the bur o' the world, man's congregation shun."
+            },
+            {
+                "line_num": 14,
+                "content": "O beastly woman."
+            },
+            {
+                "line_num": 15,
+                "content": "You know not how ill's all here, about my heart; but I know."
+            },
+            {
+                "line_num": 16,
+                "content": "Henry, I feel it, is for the first and last time getting out of hand."
+            },
+            {
+                "line_num": 17,
+                "content": "Good-bye, Henry."
+            },
+            {
+                "line_num": 18,
+                "content": "He drops away..."
             }
         ]
     }

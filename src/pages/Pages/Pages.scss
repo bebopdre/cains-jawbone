@@ -1,4 +1,6 @@
 .pages {
+    display: flex;
+    flex-wrap: wrap;
 
     &__page {
         list-style-type: none;
@@ -7,10 +9,11 @@
         border: 2px solid black;
         border-radius: 8px;
 
-        width: 9vw;
-        height: 3vw;
+        width: fit-content;
+        height: fit-content;
 
         display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
 

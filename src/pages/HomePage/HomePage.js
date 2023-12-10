@@ -8,7 +8,7 @@ function HomePage() {
             <article className='home-main'>
                 <section className='home-main__writing'>
                     <h1 className='home-main__writing-heading'>
-                        Cain's Jawbone
+                        CAIN'S JAWBONE
                     </h1>
                     <p className='home-main__writing-words'>Helping Myself Figure Myself Out</p>
                 </section>

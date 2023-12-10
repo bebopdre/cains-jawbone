@@ -2,3 +2,33 @@
     font-family: 'the cursive one';
     src: url('../../assets/fonts/cursive/Whisper-Regular.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: 'the typescript one';
+    src: url('../../assets/fonts/typescript/NanumMyeongjo-Regular.ttf') format('truetype');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'the typescript one';
+    src: url('../../assets/fonts/typescript/NanumMyeongjo-Bold.ttf') format('truetype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'the general one';
+    src: url('../../assets/fonts/general/YanoneKaffeesatz-ExtraLight.ttf') format('truetype');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'the general one';
+    src: url('../../assets/fonts/general/YanoneKaffeesatz-Light.ttf') format('truetype');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'the general one';
+    src: url('../../assets/fonts/general/YanoneKaffeesatz-SemiBold.ttf') format('truetype');
+    font-weight: 500;
+}
